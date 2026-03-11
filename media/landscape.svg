@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="1.46336in" height="1.02684in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 2896.26 2032.3"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#666666;stroke-width:2;stroke-miterlimit:2.61313}
+    .str2 {stroke:#666666;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:2.61313}
+    .str1 {stroke:#666666;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:2.61313}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <rect class="fil0 str0" x="10.31" y="10.3" width="2875.64" height="2011.68"  vector-effect="non-scaling-stroke"/>
+<path class="fil0 str0" d="M10.31 1218.45l181.52 129.18m-181.52 118.86l634.97 -410.31 1384.72 965.8m-524.58 -365.89l1030.06 -437.23 350.47 220.16m-2875.64 264.76l634.97 -647.6 827.12 965.8m206.87 -244.63l856.21 -558.49 350.47 370.51" vector-effect="non-scaling-stroke"/>
+<path class="fil0 str1" d="M1653.5 530.73c305.91,22.36 561.74,155.36 673.73,329.06l-1388.15 -101.45c136.06,-155.57 408.51,-249.97 714.41,-227.61z" vector-effect="non-scaling-stroke"/>
+  <path class="fil0 str1" d="M1625.2 917.85c317.29,23.19 591.32,-2.24 702.02,-58.06l-1388.15 -101.45c101.41,71.33 368.84,136.32 686.12,159.51z" vector-effect="non-scaling-stroke"/>
+  <circle class="fil0 str1" transform="matrix(0.685479 0.0500978 -0.0500978 0.685479 1159.03 702.811)" r="31.5" vector-effect="non-scaling-stroke"/>
+  <g id="_2228115884704">
+   <path class="fil0 str2" d="M1296.39 691.13c11.93,0.87 20.89,11.24 20.02,23.17 -0.87,11.92 -11.24,20.88 -23.17,20.02 -11.92,-0.87 -20.88,-11.25 -20.02,-23.17 0.87,-11.93 11.25,-20.89 23.17,-20.02z"  vector-effect="non-scaling-stroke"/>
+   <path class="fil0 str2" d="M1432.16 701.06c11.93,0.87 20.89,11.25 20.02,23.17 -0.87,11.93 -11.24,20.89 -23.17,20.02 -11.92,-0.87 -20.88,-11.24 -20.02,-23.17 0.87,-11.92 11.25,-20.88 23.17,-20.02z" vector-effect="non-scaling-stroke"/>
+   <path class="fil0 str2" d="M1567.93 710.98c11.93,0.87 20.89,11.24 20.02,23.17 -0.87,11.92 -11.24,20.88 -23.17,20.02 -11.92,-0.87 -20.88,-11.25 -20.02,-23.17 0.87,-11.93 11.25,-20.89 23.17,-20.02z" vector-effect="non-scaling-stroke"/>
+   <path class="fil0 str2" d="M1703.71 720.91c11.92,0.87 20.88,11.25 20.01,23.17 -0.87,11.93 -11.24,20.89 -23.17,20.02 -11.92,-0.87 -20.88,-11.24 -20.01,-23.17 0.86,-11.92 11.24,-20.88 23.17,-20.02z" vector-effect="non-scaling-stroke"/>
+   <path class="fil0 str2" d="M1839.48 730.83c11.92,0.87 20.88,11.24 20.01,23.17 -0.87,11.92 -11.24,20.88 -23.17,20.02 -11.92,-0.87 -20.88,-11.25 -20.01,-23.17 0.86,-11.93 11.24,-20.89 23.17,-20.02z" vector-effect="non-scaling-stroke"/>
+   <path class="fil0 str2" d="M1975.25 740.76c11.92,0.87 20.88,11.25 20.01,23.17 -0.87,11.93 -11.24,20.89 -23.17,20.02 -11.92,-0.87 -20.88,-11.24 -20.01,-23.17 0.86,-11.92 11.24,-20.88 23.17,-20.02z" vector-effect="non-scaling-stroke"/>
+  </g>
+  <circle class="fil0 str1" transform="matrix(0.685479 0.0500978 -0.0500978 0.685479 2109.45 772.271)" r="31.5" vector-effect="non-scaling-stroke"/>
+  <polyline class="fil0 str1" points="1815.11,391.12 1653.5,530.72 1513.9,369.11 " vector-effect="non-scaling-stroke"/>
+ </g>
+</svg>
